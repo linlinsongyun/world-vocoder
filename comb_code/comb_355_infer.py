@@ -2,7 +2,7 @@ import numpy as np
 import os
 import sys
 
-
+#python comb_355_infer.py ppgs_dir mel_dir save_dir train/infer
 ppgs_dir = sys.argv[1]
 mel_dir = sys.argv[2]
 save_dir = sys.argv[3]
